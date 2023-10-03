@@ -39,7 +39,7 @@ int main(){
     }
       if (swap == 0) {
         printf("No sorting needed\n");
-        break; // You can exit the loop early if no swaps occurred
+        break; 
     }
   }
 
