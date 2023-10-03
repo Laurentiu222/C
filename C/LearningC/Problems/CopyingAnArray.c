@@ -37,7 +37,10 @@ int main(){
         swap =1;
       }
     }
-
+      if (swap == 0) {
+        printf("No sorting needed\n");
+        break; // You can exit the loop early if no swaps occurred
+    }
   }
 
       printf("Copied array elements and sorted: \n");
