@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
+// making a copy of the array and then sorting it
 
 int main(){
 
